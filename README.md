@@ -2,7 +2,7 @@
 
 * Made using a technology stack consisting of HTML, CSS, Bootstrap CSS, JavaScript, and PHP.
 
-* Utilizes JavaScript for basic form validation and redirection
+* Utilizes JavaScript for redirection
 
 * Utilizes PHP code to generate new pages dynamically
 
