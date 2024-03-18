@@ -1,6 +1,6 @@
 # Dynamic-webpage
 
-* Made using a technology stack consisting of HTML, CSS, Bootstrap CSS, JavaScript, and PHP.
+* Made using a technology stack consisting of HTML, CSS, Bootstrap, JavaScript, and PHP.
 
 * Utilizes JavaScript for redirection
 
